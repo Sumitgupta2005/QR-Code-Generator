@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.container{
+    margin-top: 10rem;
+    background-color: white;
+    padding: 32px;
+    border-radius: 20px;
+    
+}
+
+.input, .qr, .btn{
+    margin-top: 1rem;
+}
+
+.container img, input, button{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container button:hover{
+    cursor: pointer;
+}
