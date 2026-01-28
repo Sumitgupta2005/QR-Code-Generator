@@ -27,10 +27,10 @@ It allows users to generate a QR code instantly from any text or URL using a pub
 ## 📸 Screenshots
 
 ### 🖼️ Home Screen
-![QR Generator UI](images/screenshot1.png)
+![QR Generator UI](https://github.com/Sumitgupta2005/QR-Code-Generator/blob/8c4ba0a9c3310c1d4ab148d9c2bf37ab68594809/ScreenshotQR-1.png)
 
 ### 🖼️ Generated QR Code
-![Generated QR](images/screenshot2.png)
+![Generated QR](https://github.com/Sumitgupta2005/QR-Code-Generator/blob/8c4ba0a9c3310c1d4ab148d9c2bf37ab68594809/ScreenshotQR-2.png)
 
 ---
 
